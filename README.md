@@ -5,4 +5,4 @@ JACKILOU R. VIERNES
 Bachelor of Science in Information Technology - 4F
 
 ## Description
-This repository contains practical exercises and course-related projects that support my learning in Cloud Computing, Git, and GitHub. It reflects my continuous growth in using modern development tools.
+This repository contains my laboratory exercises, assignments, and projects for the Cloud Computing course. It serves as a collection of my work and progress in learning Git, GitHub, and cloud computing technologies.
