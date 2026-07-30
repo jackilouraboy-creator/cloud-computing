@@ -1,7 +1,6 @@
-## Name:
-## JACKILOU R. VIERNES
 
-## Course and section:  
+## JACKILOU R. VIERNES
+  
 ## BSIT-4F
 
 ## Description:
